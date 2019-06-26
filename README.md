@@ -1,6 +1,6 @@
 # PlaylistAlgorythm
-Given a list of songs ordered by desirability, a target length, and an acceptable variance, returns a list of those songs that have a length within the given variance of the given target number
-if there is more than list that satisfies the requirements, it will return the list with the most desireable songs
+Given a list of songs ordered by desirability, a target length, and an acceptable variance, returns a list of those songs that have a length within the given variance of the given target length.  
+If there is more than list that satisfies the requirements, it will return the list with the most desireable songs
 
 # Example
   music = [{'name': 'song1', 'length': '0:02'}, {'name': 'song2', 'length': '1: 53'}, {'name': 'song3', 'length': '3:23'}]
